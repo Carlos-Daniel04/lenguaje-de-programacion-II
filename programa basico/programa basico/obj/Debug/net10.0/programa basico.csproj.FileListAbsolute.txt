@@ -1,0 +1,14 @@
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\bin\Debug\net10.0\programa basico.exe
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\bin\Debug\net10.0\programa basico.deps.json
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\bin\Debug\net10.0\programa basico.runtimeconfig.json
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\bin\Debug\net10.0\programa basico.dll
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\bin\Debug\net10.0\programa basico.pdb
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\programa basico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\programa basico.AssemblyInfoInputs.cache
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\programa basico.AssemblyInfo.cs
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\programa basico.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\programa basico.dll
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\refint\programa basico.dll
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\programa basico.pdb
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\programa basico.genruntimeconfig.cache
+C:\Users\Carlos\OneDrive\Desktop\lenguaje de programacion 2\-Creaci-n-de-un-programa-basico\programa basico\programa basico\obj\Debug\net10.0\ref\programa basico.dll
