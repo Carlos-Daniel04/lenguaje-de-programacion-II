@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Uj/SRlcY+M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\lenguaje-de-programacion-II\\tabla-de-amortización\\tabla-de-amortización\\tabla-de-amortización.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\spectre.console\\0.55.2\\spectre.console.0.55.2.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\spectre.console.ansi\\0.55.2\\spectre.console.ansi.0.55.2.nupkg.sha512"
+  ],
+  "logs": []
+}
