@@ -63,7 +63,7 @@ namespace renta_car_spectre.Services
 
         public void EliminarVehiculo()
         {
-            int id = AnsiConsole.Ask<int>("[yellow]Que vehiculo desea eliminar[/]\n");
+            int id = AnsiConsole.Ask<int>("[yellow]Que vehiculo desea eliminar[white] pro el ID[/][/]\n");
             if (AnsiConsole.Confirm("Esta de acuerdo de eliminar\n"))
             {
                 var vehiculo = vehiculos.Find(v => v.Id == id);
@@ -91,13 +91,14 @@ namespace renta_car_spectre.Services
           
         }
 
-        public void RentarVehiculo(int id)
+        public void RentarVehiculo(int id, int clienteId)
         {
             var vehiculo = vehiculos.Find(v => v.Id == id);
             if (vehiculo != null && vehiculo.Disponible)
             {
                 vehiculo.Disponible = false;
-                AnsiConsole.MarkupLine($"[Yellow]El vehículo {vehiculo.Marca} {vehiculo.Modelo} ha sido rentado.[/]\n");
+                vehiculo.ClienteId = clienteId; 
+                AnsiConsole.MarkupLine($"[Yellow]El vehículo {vehiculo.Marca} {vehiculo.Modelo} ha sido rentado por el cliente {vehiculo.ClienteId}.[/]\n");
             }
             else
             {
@@ -111,7 +112,8 @@ namespace renta_car_spectre.Services
             if (vehiculo != null && !vehiculo.Disponible)
             {
                 vehiculo.Disponible = true;
-                AnsiConsole.MarkupLine($"[yellow]El vehículo {vehiculo.Marca} {vehiculo.Modelo} ha sido devuelto.[/]\n");
+                vehiculo.ClienteId = null;
+                AnsiConsole.MarkupLine($"[yellow]El vehículo {vehiculo.Marca} {vehiculo.Modelo} ha sido devuelto por el cliente {vehiculo.ClienteId}.[/]\n");
             }
             else
             {

@@ -14,5 +14,6 @@ namespace renta_car_spectre.models
         public required int Ano { get; set; }
         public required decimal PrecioPorDia {get; set;}
         public bool Disponible { get; set; } = true;
+        public int? ClienteId { get; set; }
     }
 }
