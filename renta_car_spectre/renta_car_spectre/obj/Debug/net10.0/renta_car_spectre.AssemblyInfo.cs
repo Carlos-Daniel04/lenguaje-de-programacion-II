@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("renta_car_spectre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bf30aca40625f46d6d77eeab7df990025b177c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f646ec2dcdf0adaeb4ca77dbe4c216f7f99bd2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("renta_car_spectre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("renta_car_spectre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

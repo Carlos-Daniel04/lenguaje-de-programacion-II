@@ -1,4 +1,4 @@
-CREATE TABLE "Cliente" (
+CREATE TABLE Cliente (
 	"Id_Cliente"	INTEGER NOT NULL UNIQUE,
 	"Nombre"	TEXT NOT NULL,
 	"Apellido"	TEXT NOT NULL,
@@ -7,7 +7,7 @@ CREATE TABLE "Cliente" (
 	PRIMARY KEY("Id_Cliente" AUTOINCREMENT)
 );
 
-CREATE TABLE "Vehiculo" (
+CREATE TABLE Vehiculo (
 	"Id_Vehiculo"	INTEGER NOT NULL UNIQUE,
 	"Marca"	TEXT NOT NULL,
 	"Modelo"	TEXT NOT NULL,
@@ -18,7 +18,7 @@ CREATE TABLE "Vehiculo" (
 	PRIMARY KEY("Id_Vehiculo" AUTOINCREMENT)
 );
 
-CREATE TABLE "Renta_Vehiculo" (
+CREATE TABLE Renta_Vehiculo (
 	"Id_Renta_Vehiculo"	INTEGER NOT NULL UNIQUE,
 	"Cliente_Id"	INTEGER NOT NULL,
 	"Vehiculo_Id"	INTEGER NOT NULL,

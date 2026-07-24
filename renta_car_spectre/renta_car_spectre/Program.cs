@@ -1,7 +1,7 @@
-﻿using System;
-using Spectre.Console;
+﻿using renta_car_spectre.models;
 using renta_car_spectre.Services;
-using renta_car_spectre.models;
+using Spectre.Console;
+using System;
 
 class Program
 {
@@ -10,6 +10,8 @@ class Program
         AnsiConsole.Write(new FigletText("Carlos").Centered().Color(Color.White));
         AnsiConsole.WriteLine();
         AnsiConsole.Write(new FigletText("Renta Car").Centered().Color(Color.Blue));
+
+        
         var servicio = new VehiculoService();
         var servicioCliente = new ClienteSevice();
         bool salir = false;
