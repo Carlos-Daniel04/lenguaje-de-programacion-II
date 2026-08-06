@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\-Creaci-n-de-un-programa-basico\\renta_car_spectre\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|c:\\users\\carlos\\onedrive\\desktop\\lenguaje de programacion 2\\-creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\services\\clientesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|solutionrelative:renta_car_spectre\\services\\clientesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|c:\\users\\carlos\\onedrive\\desktop\\lenguaje de programacion 2\\-creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|solutionrelative:renta_car_spectre\\services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|c:\\users\\carlos\\onedrive\\desktop\\lenguaje de programacion 2\\-creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\database\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|solutionrelative:renta_car_spectre\\database\\queries.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|c:\\users\\carlos\\onedrive\\desktop\\lenguaje de programacion 2\\-creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\services\\clientesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|solutionrelative:renta_car_spectre\\services\\clientesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1164BBCC-FC21-9031-E236-C79AB6687C64}|renta_car_spectre\\renta_car_spectre.csproj|c:\\users\\carlos\\onedrive\\desktop\\lenguaje de programacion 2\\-creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "queries.sql",
               "DocumentMoniker": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\-Creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\Database\\queries.sql",
               "RelativeDocumentMoniker": "renta_car_spectre\\Database\\queries.sql",
@@ -61,32 +61,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VehiculoService.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\-Creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\Services\\VehiculoService.cs",
               "RelativeDocumentMoniker": "renta_car_spectre\\Services\\VehiculoService.cs",
               "ToolTip": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\-Creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\Services\\VehiculoService.cs",
               "RelativeToolTip": "renta_car_spectre\\Services\\VehiculoService.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAYwFsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T02:21:24.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ClienteSevice.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\-Creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\Services\\ClienteSevice.cs",
               "RelativeDocumentMoniker": "renta_car_spectre\\Services\\ClienteSevice.cs",
               "ToolTip": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\-Creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\Services\\ClienteSevice.cs",
               "RelativeToolTip": "renta_car_spectre\\Services\\ClienteSevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T02:17:42.953Z"
+              "WhenOpened": "2026-07-08T02:17:42.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Carlos\\OneDrive\\Desktop\\lenguaje de programacion 2\\-Creaci-n-de-un-programa-basico\\renta_car_spectre\\renta_car_spectre\\Program.cs",
               "RelativeDocumentMoniker": "renta_car_spectre\\Program.cs",
